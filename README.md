@@ -30,7 +30,7 @@ git clone https://github.com/ch-gopi/HTML-CSS-JavaScript.git
 ```
 - Navigate to project directory.
 ```terminal
-cd Hacktoberfest2023
+cd HTML-CSS-JavaScript
 ```
 
 - Create a new Branch
