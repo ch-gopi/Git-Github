@@ -22,7 +22,7 @@ $ git init
 
 ## Getting Started 🤩🤗:
 
-- Fork this repo (button on top)
+- Fork the repo (button on top)
 - Clone on your local machine
 
 ```terminal
